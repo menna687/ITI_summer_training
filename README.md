@@ -8,3 +8,21 @@
 6- Automotive Bus Technology  
 7- Embedded Systems Tooling  
 8- Embedded Systems Testing  
+
+## Implemented and Tested drivers:
+### MCAL
+* DIO
+* TIMER0/1/2
+* ADC
+* EXTINT
+* UART
+* SPI
+
+### HAL
+* LCD
+* KEYPAD
+* DC_MOTOR
+* 7_SEG
+
+## FinalProject:
+Automated home system
